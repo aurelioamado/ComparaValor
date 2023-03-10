@@ -1,0 +1,25 @@
+.cabeca{
+    background-color: rgb(90, 139, 118);
+    width:500px;
+}
+
+.h1{
+    font-size: 30px;
+    padding: 20px;
+    text-align: center;
+}
+
+.dados{
+    padding: 20px;
+    text-align: center;
+}
+
+#resultado{
+    background-color: rgb(5, 5, 5);
+    color: brown;
+    width:500px;
+    height: 80px;
+    text-align: center;
+    padding-top: 40px;
+
+}
